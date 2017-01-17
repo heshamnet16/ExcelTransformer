@@ -1,0 +1,13 @@
+F:\Programming\Excel Transformer\Excel Transformer V2\Excel Transformer V2\bin\Debug\Excel Transformer V2.dll.config
+F:\Programming\Excel Transformer\Excel Transformer V2\Excel Transformer V2\bin\Debug\Excel Transformer V2.dll
+F:\Programming\Excel Transformer\Excel Transformer V2\Excel Transformer V2\bin\Debug\Excel Transformer V2.pdb
+F:\Programming\Excel Transformer\Excel Transformer V2\Excel Transformer V2\obj\Debug\Excel_Transformer_V2.Main.resources
+F:\Programming\Excel Transformer\Excel Transformer V2\Excel Transformer V2\obj\Debug\Excel_Transformer_V2.Properties.Resources.resources
+F:\Programming\Excel Transformer\Excel Transformer V2\Excel Transformer V2\obj\Debug\Excel Transformer V2.csproj.GenerateResource.Cache
+F:\Programming\Excel Transformer\Excel Transformer V2\Excel Transformer V2\obj\Debug\Excel Transformer V2.dll
+F:\Programming\Excel Transformer\Excel Transformer V2\Excel Transformer V2\obj\Debug\Excel Transformer V2.pdb
+F:\Programming\Excel Transformer\Excel Transformer V2\Excel Transformer V2\obj\Debug\Excel Transformer V2.csprojResolveAssemblyReference.cache
+F:\Programming\Excel Transformer\Excel Transformer V2\Excel Transformer V2\bin\Debug\Excel Transformer V2.dll.manifest
+F:\Programming\Excel Transformer\Excel Transformer V2\Excel Transformer V2\bin\Debug\Excel Transformer V2.vsto
+F:\Programming\Excel Transformer\Excel Transformer V2\Excel Transformer V2\bin\Debug\COWTranslation.dll
+F:\Programming\Excel Transformer\Excel Transformer V2\Excel Transformer V2\bin\Debug\COWTranslation.pdb

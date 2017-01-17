@@ -1,0 +1,15 @@
+F:\Programming\Excel Transformer\Excel Transformer V2\Excel Transformer V2\obj\Release\Excel_Transformer_V2.Main.resources
+F:\Programming\Excel Transformer\Excel Transformer V2\Excel Transformer V2\obj\Release\Excel_Transformer_V2.Properties.Resources.resources
+F:\Programming\Excel Transformer\Excel Transformer V2\Excel Transformer V2\obj\Release\Excel Transformer V2.csproj.GenerateResource.Cache
+F:\Programming\Excel Transformer\Excel Transformer V2\Excel Transformer V2\bin\Release\Excel Transformer V2.dll.config
+F:\Programming\Excel Transformer\Excel Transformer V2\Excel Transformer V2\bin\Release\Excel Transformer V2.dll
+F:\Programming\Excel Transformer\Excel Transformer V2\Excel Transformer V2\bin\Release\Excel Transformer V2.pdb
+F:\Programming\Excel Transformer\Excel Transformer V2\Excel Transformer V2\bin\Release\COWTranslation.dll
+F:\Programming\Excel Transformer\Excel Transformer V2\Excel Transformer V2\bin\Release\COWTranslation.pdb
+F:\Programming\Excel Transformer\Excel Transformer V2\Excel Transformer V2\obj\Release\Excel Transformer V2.dll
+F:\Programming\Excel Transformer\Excel Transformer V2\Excel Transformer V2\obj\Release\Excel Transformer V2.pdb
+F:\Programming\Excel Transformer\Excel Transformer V2\Excel Transformer V2\bin\Release\Excel Transformer V2.dll.manifest
+F:\Programming\Excel Transformer\Excel Transformer V2\Excel Transformer V2\bin\Release\Excel Transformer V2.vsto
+F:\Programming\Excel Transformer\Excel Transformer V2\Excel Transformer V2\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+F:\Programming\Excel Transformer\Excel Transformer V2\Excel Transformer V2\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+F:\Programming\Excel Transformer\Excel Transformer V2\Excel Transformer V2\obj\Release\Excel Transformer V2.csprojResolveAssemblyReference.cache
